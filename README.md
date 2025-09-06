@@ -1,3 +1,1 @@
-Check out my project explanation on [LinkedIn]().
-
-Demo video: [Watch on LinkedIn]()
+Check out my project explanation and Demo video on [LinkedIn](https://www.linkedin.com/posts/alikawar_ai-computervision-machinelearning-activity-7370016641990066176-oZpN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFk3hcABjqdsd_RluSiOqWh3o3r-Svo30WQ).
